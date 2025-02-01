@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm Bharath, an hardcore tech enthusiast and a CSE freshman @ Marwadi University, Rajkot , Gujarat, India
+Languages: C/C++, Python, Java and Core Frontend (HTML, CSS, JS)
+Other Technical Skills: Linux, Git, Prompting, Cloud Computing (Azure)
+Non-Technical Skills: Communication, Writing, Speaking
 
-<!--
-**Bharath-574/Bharath-574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Upskilling Myself
+- 🌱 I’m currently learning Web Dev, Java Programming
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me 👇
+- Email: p.bharathjnv@gmail.com
+- Linkedin: https://www.linkedin.com/in/bharath-potti
+- ⚡ Fun fact: Always Exploring, so if you are ever scratching heads about my specific domain let me tell you it's completely normal
