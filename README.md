@@ -1,8 +1,12 @@
 Hi there 👋
 I'm Bharath, an hardcore tech enthusiast and a CSE freshman @ Marwadi University, Rajkot , Gujarat, India
+
 Languages: C/C++, Python, Java and Core Frontend (HTML, CSS, JS)
+
 Other Technical Skills: Linux, Git, Prompting, Cloud Computing (Azure)
+
 Non-Technical Skills: Communication, Writing, Speaking
+
 
 
 - 🔭 I’m currently working on Upskilling Myself
