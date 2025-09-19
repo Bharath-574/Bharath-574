@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Bharath, an hardcore tech enthusiast and a CSE freshman @ Marwadi University, Rajkot , Gujarat, India
+I'm Bharath, an hardcore tech enthusiast and a CSE sophomore @ Marwadi University, Rajkot , Gujarat, India
 
 Languages: C/C++, Python, Java and Core Frontend (HTML, CSS, JS)
 
